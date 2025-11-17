@@ -1,0 +1,63 @@
+{
+    "FILENAME": "all_specs_merged.xlsx",
+    "FILENAMES": {
+        "AutoID": "AutoId.xlsx",
+        "IoLink": "IoLink.xlsx",
+        "ISA95": "ISA95.xlsx",
+        "MachineTools": "MachineTools.xlsx",
+        "MV1CCM": "MV1CCM.xlsx",
+        "MV2AMCM": "MV2AMCM.xlsx",
+        "All": "all_specs_merged.xlsx",
+        "PackML": "PackML.xlsx",
+        "PADIM": "PADIM.xlsx",
+        "PROFINET": "PROFINET.xlsx",
+        "Robotics": "Robotics.xlsx",
+        "UAFX": "UAFX.xlsx",
+        "Weihenstephan": "Weihenstephan.xlsx"
+    },
+    "COL_NAMES": [
+        "id",
+        "sentences",
+        "page",
+        "is_const",
+        "is_const_im_only",
+        "im_keywords",
+        "links",
+        "const_keyword",
+        "relation_keyword",
+        "nums",
+        "quotes",
+        "runtime_only",
+        "remarks"
+    ],
+    "ENTITY_COLS": [
+        "const_keyword",
+        "relation_keyword",
+        "runtime_only"
+    ],
+    "DATA_FOLDER": "oke_dataset/excel/",
+    "SHEET_NAME": "Sheet1",
+    "PHRASES": [
+        [
+            "from",
+            "to"
+        ]
+    ],
+    "COL_INTERVAL": "A:M",
+    "Constants": {
+        "Columns": {
+            "SentenceID": "Sentence Number",
+            "Sentence": "Sentence",
+            "InformationModel": "Information Model Keywords",
+            "Relation": "Relation Keywords",
+            "Constraint": "Constraint Keywords",
+            "Quotes": "Quotes",
+            "Numbers": "Numbers",
+            "RuntimeOnly": "Runtime only",
+            "BinaryCls": "Rule Sentence (y/n)",
+            "IMClas": "IM-Rule Sentence (y/n)",
+            "BinaryClsPredRB": "Constraint (y/n) RB",
+            "BinaryClsPredSVM": "Constraint (y/n) SVM"
+        }
+    }
+}

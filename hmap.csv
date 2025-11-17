@@ -1,0 +1,1027 @@
+keyword,const_keyword,relation_keyword,runtime_only,not_included
+one ore more,0,0,0,0
+counting,1,0,0,2
+necessary,6,0,0,23
+relations,0,0,1,4
+possible,14,0,2,93
+include,1,13,0,17
+destination,15,0,0,0
+detected,0,0,1,17
+shall be created,1,0,0,3
+ws_cur_state,0,0,1,0
+ingredients,0,0,1,0
+expectedmodule,0,0,1,0
+holds,0,1,0,5
+implemented,1,1,0,8
+times,1,0,0,10
+although,1,0,0,11
+iopticalfluoresencequenchingcalibrationtype,0,0,0,0
+held,0,0,1,5
+means,1,0,0,15
+elements,1,0,3,30
+not reliably possible,1,0,0,0
+root object,0,0,0,0
+elapsed,0,0,2,0
+events,0,0,5,53
+array of bytes,1,0,0,1
+output value,0,0,1,3
+inherited,19,5,3,13
+address space,0,0,1,45
+restrict,3,0,0,1
+uniquely,6,0,0,6
+cannot,11,0,0,18
+is a,10,1,0,195
+isdrivenby,0,3,0,1
+maximum,16,0,0,2
+addressspace,0,1,0,93
+date,1,0,0,4
+manifestation,7,0,0,5
+inherits,3,3,0,1
+abort,0,0,1,39
+su-state,0,0,0,0
+after each,1,0,0,1
+big endian,2,0,0,0
+one of,6,0,0,28
+set,2,4,42,82
+hash value,0,0,3,0
+combination of numbers and letters,6,0,0,1
+defining,0,1,0,9
+type,5,0,4,204
+persistent,1,0,0,2
+column,1,0,0,1
+less or equal,3,0,0,0
+any time,1,0,0,9
+common,2,0,0,17
+according to,1,0,0,41
+described,0,47,0,43
+processes,0,0,1,3
+obtain,1,0,0,2
+associated,0,0,1,46
+the same as,1,0,0,8
+all,208,0,0,127
+suspends,0,0,1,4
+ws datapoint,0,0,7,3
+primary,1,0,0,4
+active,0,0,3,42
+current state,0,0,3,11
+not match,1,0,0,1
+client/server,0,0,0,0
+default,5,0,1,32
+if,346,0,0,54
+require,17,3,0,13
+causes,1,1,0,4
+i&m0filterdatamodule,0,0,1,0
+point to,8,0,0,4
+user writeable,3,0,0,3
+conditionvariables,0,0,0,0
+element,4,0,0,72
+created upon,2,0,0,1
+ispnrealmodule,0,1,0,1
+synchronous,0,0,4,4
+is filled,1,0,0,2
+block,2,0,0,16
+can,109,0,0,287
+hexadecimal number,2,0,0,0
+mode,0,0,30,43
+made up,0,2,0,0
+must be deactivated,2,0,0,0
+specifies,0,5,0,35
+idevicehealthtype,0,0,1,2
+mirroring,1,0,0,0
+interrupted,0,0,1,19
+ithermalconductivitysignalconditiosettype,0,0,0,0
+administrative rights,0,0,1,0
+pubsub,0,0,5,10
+folder,14,0,2,61
+larger than,4,0,0,1
+array,4,0,0,45
+dependency,3,0,0,2
+no further,7,0,0,3
+not allowed,1,0,0,0
+no other,1,0,0,1
+attrib-utes,0,0,1,0
+each time,1,0,0,0
+mac address,4,0,0,0
+operating modes,0,0,3,0
+haspnexpectedmodule,0,1,0,0
+asset identity,0,0,1,0
+bad_statenotactive,0,0,1,1
+including,3,2,0,22
+on,4,0,2,346
+substate machine,0,0,0,1
+possible values,0,0,2,3
+full hours,1,0,0,0
+connects,2,0,1,3
+defined,4,261,0,768
+real,0,0,6,8
+reamain,0,0,0,0
+madatory,0,0,0,0
+sub states,0,0,1,1
+total,1,0,0,9
+method-triggered,0,0,7,0
+would not,1,0,0,2
+unit mode value,0,0,3,1
+never,1,0,0,3
+entry point,4,0,0,3
+replacement value,0,0,2,0
+scalar,1,0,0,0
+decribed,0,0,0,0
+submodules,0,0,6,2
+should,21,0,0,54
+object types,0,0,1,6
+may be,1,0,0,114
+succesful,0,0,0,0
+inital,0,0,0,0
+hasorderedcomponent,0,1,0,0
+requested mode,0,0,1,0
+indicates,2,3,3,70
+properties,0,0,1,94
+reserved,2,0,0,1
+shall have,13,0,0,21
+needs,5,0,0,15
+exectuion,0,0,0,0
+add,2,0,0,66
+static data,1,0,0,0
+sequential,3,0,0,3
+invalid,1,0,0,2
+extends,2,0,0,2
+have to be,1,0,0,10
+content,5,0,0,45
+servers,0,0,5,37
+used to,11,2,0,211
+shall use,3,0,0,1
+even if,2,0,0,3
+decribe,0,0,0,0
+ready,0,0,2,50
+signal,0,0,1,56
+fire,0,0,1,0
+becomes,0,0,1,6
+generated,1,0,1,23
+last value,0,0,1,0
+can not,0,0,0,0
+boolean,1,0,1,1
+supported,0,0,3,30
+chosen,0,0,1,7
+operations,0,0,2,11
+dynamic,2,0,0,2
+filled,7,0,0,6
+unchanged,3,0,0,0
+off,0,0,2,2
+i&m0filterdatasubmodule,0,0,1,0
+only onece,0,0,0,0
+superior,0,0,5,5
+optional placeholder,1,0,0,4
+between,36,0,0,59
+history,0,0,2,4
+managed,0,2,0,12
+superset,1,0,0,0
+characterized,0,4,0,4
+synchronization,0,0,2,5
+have to,8,0,0,9
+initial,8,0,1,10
+static,8,0,1,7
+consists,1,2,0,2
+dependent,1,0,0,2
+target state,0,0,2,1
+not possible,1,0,0,11
+generalmodelchangeevent,0,0,1,1
+reason,0,0,5,13
+uint16,1,0,0,4
+below,2,0,0,26
+prefix,2,0,0,5
+suspended,0,0,1,8
+ispninterface,0,1,0,1
+allows,9,4,0,43
+execution,0,0,2,51
+instantiate,1,0,1,2
+from to,0,0,0,13
+source,6,0,0,22
+list of,2,0,0,54
+enables,0,2,0,12
+overwrites,1,1,0,4
+can be,4,0,0,245
+constructed,0,2,0,0
+slot- and subslotnumber,0,0,1,0
+valid,0,0,6,12
+must be,8,0,0,14
+argument value,0,0,1,0
+contains,3,68,0,24
+writable,0,0,0,11
+canonical,1,0,0,0
+unique,41,0,0,16
+support,2,0,0,30
+run,0,0,3,18
+itagnameplatetype,0,0,1,2
+refers to,0,2,0,10
+decode,0,0,1,1
+field,1,0,1,10
+subscribed,0,0,1,1
+application-specific,1,0,0,10
+returns,0,0,2,23
+stoppage,0,0,2,0
+autonomous subscriber,0,0,1,0
+alarm,0,0,4,13
+represented,0,8,0,18
+mapped,3,42,0,12
+softwarecomponent,0,0,1,0
+consist of,0,1,0,1
+bidirectional,18,0,0,0
+has to,8,0,0,10
+operation,0,0,25,88
+whenever,2,0,0,4
+existing,1,0,0,25
+interaction,0,0,1,12
+establishing,0,0,2,4
+calls,0,1,1,28
+hassubtype,0,1,0,0
+encoded,3,0,0,1
+structured,1,0,0,3
+equal,7,0,0,0
+uint32,3,0,0,0
+port submodule,0,0,2,1
+status_value_timestamp_2,0,0,2,0
+interface submodule,0,0,1,0
+including none,2,0,0,0
+does not support,2,0,0,3
+report,1,0,1,6
+integer,6,0,0,0
+most recent,1,0,0,2
+shall always,1,0,0,5
+must,29,0,0,6
+appropriate,2,0,0,28
+returned,0,0,2,20
+more than one,5,0,0,6
+does not allow,1,0,0,1
+im_date,0,0,1,0
+numeric value,2,0,0,1
+machine state,0,0,2,0
+tied to,1,0,0,0
+will begin,1,0,0,1
+sturcture,0,0,0,0
+selectvendormode,0,0,0,0
+multiple,13,0,4,32
+connected,2,1,1,17
+submodule,0,0,6,6
+modelled,0,1,0,11
+containing,0,2,0,7
+provided,1,84,1,53
+exit,1,0,0,4
+shall reference,1,2,0,13
+stored value,0,0,1,0
+output values,0,0,2,0
+transition,2,12,35,68
+decides,0,1,0,9
+controller,0,0,1,36
+listed,3,0,0,14
+strings,2,0,0,6
+must be set,1,0,0,0
+proportional to,1,0,0,0
+requiring,1,0,0,3
+necessitate,1,0,0,0
+alphanumeric,8,0,0,1
+binary,1,0,0,5
+data type,0,0,1,7
+will be,7,0,0,45
+or neither,1,0,0,0
+entered,0,5,0,11
+upwards,1,0,0,0
+prevent,1,0,0,5
+more than,10,0,0,4
+realate,0,0,0,0
+safetystatesof,0,2,0,0
+content of,3,0,0,16
+for,29,0,0,926
+format,12,0,0,8
+aggregates,1,0,0,3
+is abstract,0,1,0,0
+manual,0,0,4,13
+asymmetric,2,0,0,0
+used in the mapping,1,0,0,0
+groups,1,0,0,8
+overridden,2,5,0,4
+timestamp,0,0,3,3
+used with,0,0,1,3
+sub state,0,0,1,0
+only,81,0,0,80
+restricted,5,0,0,8
+administrative functionality,0,0,2,0
+needs to,4,0,0,10
+isslaveof,0,2,0,0
+roll,0,0,3,2
+quality,0,0,1,14
+also locks,1,0,0,0
+increment,1,0,0,0
+displayed,0,0,1,10
+command,0,0,2,43
+server-specific,0,0,1,1
+sub-state,2,0,6,8
+find,1,0,0,2
+sending,0,0,2,5
+cause,0,3,0,15
+status,0,0,5,26
+normal,0,0,1,21
+return,0,0,5,24
+ipv4 subnet mask,0,0,1,0
+category,1,0,2,2
+component,0,0,1,71
+transport,0,0,1,4
+referenced by,0,4,0,9
+lowest,1,0,0,6
+referenced from,0,1,0,12
+interface,0,0,2,148
+has no,1,0,0,14
+should be,1,0,0,26
+behavior,0,0,3,18
+lower,2,0,0,2
+similar,2,0,0,8
+at,30,0,0,89
+character sequence,6,0,0,3
+clear,1,0,0,10
+at least one,19,0,0,4
+float,1,0,0,2
+at the same time,1,0,0,7
+specified,1,1,0,57
+flag,0,0,7,4
+cumulative,0,0,4,0
+characters,1,0,0,0
+system,5,0,36,449
+executable,1,0,1,6
+consecutive,1,0,0,1
+every time,1,0,0,0
+supports,2,0,0,24
+exists,0,0,3,14
+machine states,0,0,1,0
+optionally,2,0,0,6
+available modes,0,0,2,1
+maintenance,0,0,2,20
+can only,2,0,0,5
+subtypes,0,1,3,29
+name/value pairs,2,0,0,0
+as long as,1,0,0,2
+atleast one,0,0,0,0
+response,0,0,1,17
+verifying,1,0,0,2
+considered,0,1,0,11
+stop,1,0,5,53
+ids,0,0,1,19
+arbitrary number,2,0,0,0
+increased,1,0,0,2
+disable,1,0,0,6
+exposes,0,1,0,7
+only one,3,0,0,3
+external,0,0,4,28
+shall implement,8,0,0,1
+length,4,0,0,8
+uniquly,0,0,0,0
+stop reason,0,0,4,1
+expose,1,1,3,29
+always,29,0,0,5
+pass,0,0,2,6
+top,2,0,0,7
+maps to,0,1,0,8
+list,33,0,1,52
+subtype,2,16,10,73
+group,2,0,2,15
+establish,0,0,1,1
+by one of,1,0,0,3
+input,9,0,3,26
+configured,1,0,1,24
+most,2,0,0,18
+reached,0,2,0,10
+ws domain,0,0,1,1
+via,2,0,0,22
+lenght,0,0,0,0
+facets,0,0,2,11
+refernced,0,0,0,0
+obtained,0,1,0,2
+ws datapoints,0,0,7,4
+categories,2,0,0,5
+input values,0,0,2,0
+base state,0,0,1,0
+not defined,3,0,0,7
+structure,11,0,0,85
+drives,0,2,0,4
+no such,1,0,0,0
+remain,3,0,0,6
+parent,2,0,12,10
+blob,0,0,1,0
+combined with,0,1,0,3
+is part of,1,0,0,9
+shall not be provided,0,1,0,1
+triggering,0,3,0,0
+shall expose,1,0,0,0
+every change,1,0,0,0
+during,0,0,2,37
+product data,0,0,1,1
+system-wide unique,5,0,0,13
+apply,3,0,0,10
+correspond,0,1,0,0
+programs,0,0,1,14
+im_descriptor,0,0,1,0
+unknown,1,0,0,2
+can be used,1,0,0,54
+conditions,1,0,2,60
+mirrored,1,0,0,0
+fired,0,5,0,5
+extent,1,0,0,1
+should not,2,0,0,3
+mapped to,0,3,0,48
+specify,0,1,2,28
+transit,0,0,1,1
+pathname,1,0,0,2
+reflects,1,0,1,10
+eclass,1,0,0,0
+consistent,1,0,0,10
+trigger,4,5,4,11
+job,3,0,60,173
+parent type,0,0,2,0
+workflow,0,0,1,2
+at least,25,0,0,4
+shall,274,5,0,280
+equal to,2,0,0,5
+desribed,0,0,0,0
+shall provide,0,2,0,12
+interpreted,0,1,0,5
+subsequent,6,0,0,1
+ismovedby,0,1,0,0
+need,3,0,0,21
+sets,0,0,4,5
+completing,1,0,0,5
+haspnport,0,1,0,0
+assign,1,1,0,1
+re-instantiate,0,0,1,0
+represents,1,29,1,24
+mutually exclusive,1,0,0,0
+assign to,0,0,0,1
+state value,0,0,2,0
+ipv4 settings,0,0,1,0
+index,9,0,0,28
+arguments,1,0,4,28
+numbers and letters,7,0,0,0
+derived,0,6,0,28
+on each,4,0,0,4
+message,0,0,4,36
+values,0,0,49,87
+at least one entry,1,0,0,1
+url,2,0,0,2
+supertypes,2,0,0,1
+six,1,0,0,0
+file format,1,0,0,1
+writible,0,0,0,0
+haspnasset,0,1,0,0
+child objects,0,0,1,0
+parameters,0,0,14,92
+realsubmodule,0,0,3,0
+inherits from,1,0,0,3
+facet,0,0,2,21
+distinct,1,0,0,0
+start at,1,0,0,1
+length 3,1,0,0,0
+initializes,0,1,0,0
+open,0,0,1,6
+executestep,0,0,1,0
+object,4,0,1,342
+one on each,1,0,0,0
+depending,1,0,0,37
+one,85,0,0,83
+will,23,0,0,133
+activated,1,0,0,4
+nothing,1,0,0,3
+dependencies,4,0,1,0
+exist,3,0,1,11
+time. one of,0,0,0,0
+sent,1,0,18,6
+any other,2,0,0,9
+todatasetwriter,0,4,0,0
+ws browsename,0,0,4,0
+states,1,0,31,136
+conditional,1,0,0,0
+two-byte,1,0,0,0
+only if,2,0,0,1
+locally,0,0,1,8
+automatically,9,0,3,26
+indicated,0,2,0,13
+intervention,0,0,1,9
+whole,2,0,0,3
+used in,2,0,0,56
+sufficient,1,0,0,4
+changed,0,0,4,26
+assumed,1,0,0,4
+number,57,0,0,62
+or,38,0,0,607
+module,0,0,4,13
+not,60,2,0,226
+is to,2,0,0,27
+relationship,0,0,11,7
+variables,0,0,19,140
+process value,0,0,2,5
+currently,1,0,1,30
+references,0,5,0,94
+grouped under,1,0,0,0
+real module,0,0,1,3
+undefined,0,0,1,0
+container,8,0,10,11
+where,1,0,0,50
+shall be used,1,0,0,24
+to map,0,0,0,7
+allow,4,0,0,9
+false,5,0,16,14
+one or more,29,0,0,3
+bit,4,0,1,5
+top level,1,0,0,2
+is an,1,0,0,67
+jobs,0,0,8,5
+concrete,33,0,0,19
+fixed,4,0,0,1
+non-hierachical,0,0,0,0
+needed,1,0,0,26
+time,13,0,0,70
+provided directly,1,0,0,0
+describe,0,14,0,11
+provides,0,206,1,101
+tagged,0,0,1,0
+three,6,0,0,7
+optional,37,0,1,77
+container folders,0,0,1,0
+first time,1,0,0,1
+writeable,4,0,0,7
+opposite,1,0,0,0
+established,0,0,2,5
+number of,10,0,0,74
+either,13,0,0,31
+related,0,8,2,45
+timers,0,0,1,1
+available mode,0,0,1,0
+subtybe,0,0,0,0
+no more,1,0,0,1
+structuring,1,0,0,1
+calling,0,0,3,26
+shall not provide,0,1,0,0
+independent,6,0,0,8
+generate,0,3,0,10
+data points,0,0,1,4
+set to,1,0,2,32
+ws_cur_mode,0,0,1,0
+supported modes,0,0,1,0
+apply to,1,0,0,3
+null,8,0,0,2
+after,21,0,0,49
+would,7,0,0,25
+probides,0,0,0,0
+host,0,0,1,2
+model,0,0,5,140
+timestamped,1,0,0,0
+coming from,1,0,0,1
+output,9,0,3,23
+numerical,1,0,0,1
+when,18,0,0,115
+two,22,0,0,38
+available,1,0,9,81
+atuomatic,0,0,0,0
+contained,1,0,0,5
+subtyping,0,1,0,1
+close,0,0,1,4
+writes,0,0,3,6
+limit,2,0,0,4
+error,1,0,26,69
+belongs,0,3,0,16
+folders,1,0,1,6
+full,2,0,0,1
+guid,3,0,0,0
+extension,1,0,0,4
+defines,0,124,0,93
+reciprocal,2,0,0,0
+transitioning,0,1,0,3
+itagnameplate,0,0,0,0
+at some point,2,0,0,0
+icallibrationtype,0,0,0,0
+replaced,4,0,0,3
+must be used,3,0,0,0
+profile,0,0,2,20
+one-to-one,1,0,0,0
+matrix,5,0,0,1
+errors,1,0,2,10
+supertype,4,1,1,2
+transitions,1,4,12,50
+does not,4,0,0,54
+hierarchical,5,0,0,13
+haspninterface,0,1,0,0
+ws_cur_prog,0,0,1,0
+must be specified,1,0,0,0
+starting point,1,0,0,0
+how many,2,0,0,2
+unit,9,0,12,66
+more than once,2,0,0,0
+modules,0,0,5,5
+environment,0,0,1,10
+binds,0,2,0,0
+written,0,0,2,8
+copy,1,0,0,3
+bad code,1,0,0,0
+directly,30,0,0,32
+affect,2,0,0,2
+copied,2,0,0,0
+event,0,0,20,71
+continuous,0,0,4,9
+zero point,1,0,0,2
+server,0,0,96,111
+heartbeat,0,0,4,0
+string,27,0,0,20
+sequence,9,0,2,15
+entities,0,0,1,0
+invoked on,0,0,1,0
+match,12,0,0,8
+differentiation,1,0,0,0
+need to implement,1,0,0,0
+in case,3,0,0,13
+ws version,0,0,1,0
+asset verification,0,0,1,1
+shall persist,1,0,0,0
+identifies,0,2,0,3
+published,0,0,1,7
+can provide,1,0,0,4
+connections,0,0,21,24
+names,5,0,0,17
+exactly,4,0,0,3
+other,7,0,1,97
+remote,0,0,3,2
+option,1,0,0,4
+step,0,0,2,21
+unambiguously,8,0,0,6
+setting,0,0,1,7
+uniquely identify,0,0,0,2
+is generated,1,0,0,0
+process variables,0,0,1,6
+argument,1,0,4,32
+status code,0,0,1,1
+send,1,0,7,6
+localizedtext,3,0,0,10
+datatype,1,0,0,51
+neumeric,0,0,0,0
+reflect,1,0,0,6
+shall match,1,0,0,5
+same as,2,0,0,7
+signaled,0,0,2,0
+expected,1,0,3,57
+subscription,0,0,1,0
+interlock,0,0,1,3
+consits,0,0,0,0
+may not,4,0,0,4
+synchronize,0,0,1,0
+added,5,0,0,20
+job elements,0,0,1,0
+standard guid,1,0,0,1
+have,23,0,0,259
+should only,1,0,0,2
+offer,0,1,0,3
+i&m0filterdatadevice,0,0,1,0
+shall apply,1,0,0,2
+shall not,9,2,0,17
+subcomponents,0,0,2,29
+decimal,5,0,0,0
+automatic,0,0,13,26
+application-defined,0,1,0,3
+verification modes,0,0,1,0
+bad_internalerror,0,0,1,0
+asynchronous,0,0,1,0
+counterparts,2,0,0,0
+parent objects,0,0,1,3
+layer2 mac address,0,0,0,0
+todatasetreader,0,4,0,0
+ws project version,0,0,1,0
+interruptions,0,0,1,2
+shall also be,1,0,0,3
+blocked,2,0,0,2
+both,8,0,0,16
+asset compatibility,0,0,1,2
+requirement,1,0,0,4
+definition,0,2,0,71
+shall be identical,2,0,0,7
+transports,0,1,3,2
+synchronously,0,0,1,0
+shall call,1,0,0,2
+last,1,0,1,32
+unidirectional,3,0,0,0
+iopticalfluoresencequenchingconditionsettype,0,0,0,0
+some,6,0,0,36
+access,2,0,1,31
+amount,2,0,3,4
+optional items,0,0,1,0
+reset,1,0,2,34
+next,1,0,0,19
+to each other,1,0,0,4
+shall observe,1,0,0,0
+failing,0,0,1,2
+condition parameters,0,0,1,2
+first,19,0,0,21
+points to,1,6,0,1
+result,1,0,0,236
+assigned,0,5,1,14
+ws vendor version,0,0,1,0
+every,5,0,0,4
+call,1,0,12,83
+order,2,0,0,127
+will end,1,0,0,2
+automous publisher,0,0,0,0
+deactivated,3,0,0,4
+versions,0,0,1,4
+equals,3,0,0,0
+final,2,0,0,5
+related to,0,3,0,32
+whether,1,0,0,34
+current,1,0,8,53
+error-free,1,0,0,0
+required,25,0,0,33
+subsystems,0,0,1,1
+browse path,0,0,1,5
+resetted,0,0,1,0
+prior to,1,0,0,0
+is necessary,1,0,0,1
+define,0,18,0,27
+ivendornameplatetype,0,0,1,5
+display,0,0,2,16
+ws tagnumber,0,0,3,0
+unique identifiers,1,0,0,5
+machine,0,0,7,332
+bad_invalidstate,0,0,1,1
+no longer,5,0,0,4
+unambiguously identify,1,0,0,6
+abstract,6,1,1,9
+mutliple,0,0,0,0
+usually denoted,2,0,0,0
+character,8,0,0,5
+each other,2,0,1,5
+throw,0,1,0,0
+establishconnections,0,0,0,52
+publish,0,0,1,0
+disallow,1,0,0,0
+suspend,0,0,1,5
+zero,5,0,0,2
+increases,2,0,0,1
+referenced,12,20,1,16
+confirm,0,1,0,5
+ws machineclass,0,0,1,0
+modes,0,0,11,17
+counters,0,0,2,3
+nested,1,0,0,8
+contain,0,24,0,19
+exposed,0,6,0,13
+version,1,0,3,68
+subtyped,0,2,0,5
+symmetric,1,0,0,0
+non-hierarchical,2,0,0,1
+delete,1,0,0,1
+includes,2,21,0,18
+haspnrealmodule,0,1,0,0
+enabled,0,0,1,17
+signals,0,0,1,3
+represent,0,13,2,18
+reporting,0,0,1,1
+restriced,0,0,0,0
+is a subtype of,0,1,0,59
+1%,0,0,0,0
+bad_statenotactivate,0,0,0,0
+placeholder,22,0,0,2
+shall be organized,30,0,0,0
+parameter,0,0,4,85
+uml,1,0,0,3
+may,96,0,0,206
+schema,1,0,0,16
+input value,0,0,1,1
+requested,0,0,3,6
+im_tag_location,0,0,1,0
+capable,2,0,0,9
+limited,6,9,0,5
+controls,0,5,0,2
+alarms,0,0,2,25
+isrequiredby,0,1,0,0
+receive,0,0,1,12
+current mode,0,0,3,2
+checked,2,0,0,3
+describes,0,23,2,39
+downtime,0,0,1,3
+dhcpv4 client,0,0,1,0
+combines,0,0,1,0
+counterpart,1,0,0,1
+decimal number,4,0,0,1
+written before,0,0,1,0
+partial,6,0,1,6
+alternate,1,0,0,2
+procedure,0,0,1,8
+decribes,0,0,0,0
+maximum number,1,0,0,9
+both cases,3,0,0,4
+action,0,0,1,6
+root,2,0,0,0
+iscontrolledby,0,4,0,0
+moves,0,2,0,3
+bad_unexpectederror,0,0,1,0
+unambiguos,0,0,0,0
+shall not use,1,0,0,8
+shall not have,1,0,0,1
+second,2,0,0,2
+transitionevent,0,0,3,0
+available states,0,0,0,3
+must follow,2,0,0,0
+uinteger,1,0,0,0
+hasslave,0,1,0,1
+link,5,3,0,75
+uniquiely identify,0,0,0,0
+might,6,0,0,47
+single,7,0,3,31
+client,0,0,14,156
+hassafetystates,0,4,0,0
+use,6,1,0,133
+shall report,1,0,0,0
+parent state,1,0,1,11
+mandatory,46,0,0,28
+indicating,0,1,0,30
+halted,0,0,1,19
+created,3,0,2,43
+sequential series,2,0,0,1
+uses,0,1,0,24
+task,0,0,2,18
+referencing,1,0,0,5
+same,44,0,0,46
+mapped directly,1,0,0,0
+start,2,0,0,51
+coded,1,0,0,1
+equaling,0,0,1,0
+combining,1,0,0,0
+permanently,1,0,0,0
+transmitted,0,0,1,7
+before,2,0,1,23
+upon,3,0,0,11
+should use,1,0,0,1
+further,10,0,0,21
+shall manage,1,0,0,0
+identify,2,2,1,42
+can be organized,1,0,0,0
+monitored,0,1,0,2
+else,1,0,0,6
+data,1,0,11,160
+concrete type,2,0,0,9
+minimal,1,0,0,9
+finished,1,0,0,16
+value,7,0,142,75
+identifier,3,0,0,66
+expected mode,0,0,1,0
+255,0,0,1,0
+current parameters,0,0,1,0
+shall be referenced,0,0,0,5
+combination of,7,0,0,0
+read-only,23,0,0,10
+different,9,0,0,88
+initiate,0,1,0,3
+semi-automatic,0,0,2,0
+ws protocol,0,0,3,3
+interlocked,0,0,1,0
+to,72,17,6,1445
+local,0,0,3,21
+enumerate,1,0,0,1
+necessarily,3,0,0,1
+iorderedobjecttype,0,0,1,0
+stop reason elements,0,0,1,1
+return value,0,0,1,0
+representation,0,0,1,85
+default value,0,0,1,6
+one to one,3,0,0,0
+waiting state,0,0,1,0
+function,0,0,1,17
+shall organize,1,0,0,0
+archieved,0,0,0,0
+each,67,0,1,53
+calibration variables,0,0,4,6
+over,0,0,3,4
+any,24,0,0,77
+shall remain,1,0,0,0
+changes,1,0,1,28
+operation mode,0,0,1,2
+then,8,0,0,33
+synchronized,0,0,1,1
+state,4,0,179,280
+operating mode,0,0,2,0
+limited to,1,0,0,15
+master-slave,2,0,0,0
+allowed,2,1,1,6
+organized,31,2,0,4
+language neutral,1,0,0,0
+integrate,0,1,0,2
+restricts,1,0,0,0
+example,2,0,0,113
+series,3,0,0,1
+haspnapplicationrelation,0,1,0,0
+establishment,0,0,3,4
+code,1,0,3,19
+composite,0,0,3,6
+downwards,1,0,0,0
+attribute,0,0,1,67
+abstract type,3,0,0,4
+name,7,1,2,81
+starting with,1,0,0,1
+low,0,0,1,5
+systems,0,0,2,42
+information,0,0,4,323
+method,1,0,7,488
+one per,1,0,0,0
+counted,1,0,0,4
+commlinkto,0,4,0,0
+change,18,0,6,43
+provide,2,39,0,48
+ishostedby,0,4,0,4
+additional,8,0,1,241
+expectedsubmodule,0,0,1,0
+also,4,0,0,103
+included,1,6,0,13
+entry object,1,0,0,0
+isconnectedto,0,2,0,3
+the same,3,0,0,85
+omac packml,0,0,1,0
+as both,1,0,0,1
+a number of,1,0,0,7
+frequently,1,0,0,2
+condition variables,0,0,12,17
+ipv4 address,0,0,2,0
+property,2,0,2,238
+range,1,0,0,7
+deleted,2,0,0,9
+base,3,0,1,27
+compatibility,2,0,1,18
+instantiated,4,1,0,29
+shall become,2,0,0,0
+overrides,0,2,0,0
+wsdata-points,0,0,0,0
+true,20,0,35,10
+referenced with,0,1,0,0
+restricted to,2,0,0,5
+hasdictionaryentry,0,7,0,1
+by one,6,0,0,7
+im_tagfunction,0,0,1,0
+representing,0,10,0,58
+realmodule,0,0,1,0
+relation,3,0,0,4
+as soon as,1,0,0,8
+internally,0,0,1,4
+rules,1,0,0,12
+freely,1,0,0,2
+same for,1,0,0,1
+has,10,3,0,174
+numbers,11,0,0,2
+otherwise,2,0,0,19
+identical,29,0,0,6
+shall be,121,0,0,208
+not executable,1,0,0,0
+until,3,0,0,7
+providing,0,1,0,10
+haspnrealsubmodule,0,1,0,0
+am_location,0,0,2,0
+extended,1,0,0,8
+complete,2,0,0,23
+just,1,0,0,13
+percent,1,0,0,1
+for each,24,0,0,17
+restriction,2,0,0,1
+functional entity verification,0,0,0,0
+transits,0,0,1,0
+enumeration,1,0,0,45
+shall refer itself,1,0,0,0
+append,8,0,0,0
+implementing,22,0,0,19
+unless,3,0,0,3
+relate,0,1,0,1
+units,1,0,0,19
+identifiers,3,0,0,22
+no,37,0,4,60
+must provide,1,0,0,0
+maintained,1,0,0,2
+regardless,1,0,0,3
+address,5,0,3,57
+following,3,0,0,84
+restrictions,6,0,0,4
+haspnexpectedsubmodule,0,1,0,0
+or greater,1,0,0,1
+uniqueness,1,0,0,0
+clients,0,0,4,36
+identically,3,0,0,1
+stop causes,1,0,0,0
+internal,0,0,4,61
+in seconds,5,0,0,1
+empty string,3,0,0,0
+read only,3,0,0,0
+subordinate,1,0,0,0
+reference,2,22,1,159
+exception,1,0,0,2
+empty,11,0,1,7
+increase,3,0,0,0
+unambiguously identified,3,0,0,4
+download state,1,0,0,0
+parallel,0,0,1,3
+connection,0,0,14,13
+composed,1,0,0,0
+restricked,0,0,0,0
+removed,1,0,3,14
+individually,0,0,1,4
+bits,1,0,0,1
+globally,1,0,0,2
+indirectly,1,0,0,2
+individual,5,0,0,24
