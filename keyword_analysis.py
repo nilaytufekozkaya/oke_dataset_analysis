@@ -23,6 +23,7 @@ def generated_and_save_chart(
     if categories is None:
         categories = ["const_keyword", "relation_keyword", "runtime_only", "not_included"]
 
+    # --- 1) Keyword sırası (stabil) ---
     if top_n != -1:
         if not preserve_order:
             sorted_items = sorted(
@@ -32,13 +33,15 @@ def generated_and_save_chart(
             )
             keyword_list = [k for k, _ in sorted_items[:top_n]]
         else:
-          
+            # data ekleme sırasını korur (Py3.7+)
             keyword_list = list(data.keys())[:top_n]
     else:
         keyword_list = list(data.keys())
 
+    # --- 2) Occurrence ve oranlar ---
     occurrences = [builtins.sum(data[k].values()) for k in keyword_list]
 
+    # Her kategori için keyword sırasına göre oran vektörü
     ratios_by_cat = {}
     for cat in categories:
         vals = []
@@ -48,12 +51,12 @@ def generated_and_save_chart(
             vals.append((v / tot) if tot > 0 else 0.0)
         ratios_by_cat[cat] = vals
 
-
-    plt.rcParams["figure.figsize"] = (17, 5)        
+    # --- 3) Çizim ---
+    plt.rcParams["figure.figsize"] = (17, 5)        # daha yüksek
     fig, ax = plt.subplots()
 
     x = np.arange(len(keyword_list))
-    width = 0.5 
+    width = 0.5  # stacked bar için genişçe
     bottom = np.zeros(len(keyword_list), dtype=float)
 
     for cat in categories:
@@ -61,24 +64,27 @@ def generated_and_save_chart(
         ax.bar(x, vals, width, bottom=bottom, label=cat)
         bottom += np.array(vals)
 
-
+    # --- 4) Eksen/etiketler ---
     ax.set_xlabel("Keywords", fontsize=14)
     ax.set_ylabel("Ratio", fontsize=14)
 
+    # Başlık istersen:
     ax.set_title(title, fontsize=14)
 
+    # X-etiketleri: "keyword (occurrence)"
     labels = [
         f"{shorten(k, width=30, placeholder='…')} ({occ})"
         for k, occ in zip(keyword_list, occurrences)
     ]
     ax.set_xticks(x)
     ax.set_xticklabels(labels, rotation=45, ha="right")
-    ax.tick_params(axis="x", labelsize=14)          
+    ax.tick_params(axis="x", labelsize=14)           # daha küçük font
     ax.margins(x=0.01)
     ax.legend(fancybox=True, framealpha=0.3, loc="upper left", bbox_to_anchor=(1, 1))
 
-    plt.subplots_adjust(bottom=0.28)            
-    
+    # --- 5) Kenar boşlukları ve kaydetme ---
+    plt.subplots_adjust(bottom=0.28)                # alttan boşluk
+    # plt.tight_layout()  # istersen bunu da kullanabilirsin (ikisini aynı anda kullanma)
     plt.savefig(file_path, bbox_inches="tight", dpi=300)
     plt.close(fig)
     print(f"Image saved to {file_path} successfully!")
@@ -237,11 +243,11 @@ def compute_most_conflicting_keywords(hmap, sum_of_attributes, threshold):
         """hmap2: {keyword: entropy}"""
         return {kw: entropy_norm(sub) for kw, sub in hmap.items()}
 
-
+    # kullanım
     hmap2 = build_hmap2(hmap) 
 
     def sort_hmap_conflict(hmap, min_total=8, min_pos_cats=2):
-        
+        # Çatışma = entropi yüksek + yeterince görülmüş + en az 2 kategoride var
         enriched = {
             k: (v, scores(v)) for k, v in hmap.items()
         }
@@ -249,6 +255,7 @@ def compute_most_conflicting_keywords(hmap, sum_of_attributes, threshold):
             k: v for k, (v, s) in enriched.items()
             if s["total"] >= min_total and s["pos_cats"] >= min_pos_cats
         }
+        # Sıralama: önce entropi (yüksek), eşitse Gini (yüksek), sonra (1-dominance) (yüksek), sonra total (yüksek)
         def keyfn(item):
             k, sub = item
             s = scores(sub)
@@ -334,22 +341,26 @@ def run(args: argparse.Namespace):
     )
 
     keywords = util.extract_keywords(df=data)
-
+    #hmap = util.compute_frequency_of_keywords(df=data, keywords=keywords)
+    
+    #nilay start 1
     import pandas as pd
 
     cols = ["const_keyword", "relation_keyword", "runtime_only", "not_included"]
 
     df = pd.read_csv("hmap.csv", index_col=0)     # 'keyword' index
-
+    # Eksik sütun varsa 0 ile ekle
     for c in cols:
         if c not in df.columns:
             df[c] = 0
 
+    # Sayıları düzgünleştir (NaN→0, int)
     df[cols] = df[cols].apply(pd.to_numeric, errors="coerce").fillna(0).astype(int)
 
     # Dict-of-dicts
     hmap = df[cols].to_dict(orient="index")
 
+    #nilay end 1
 
     output_filename = generate_filename(args, "mostcommonkeywords")
 

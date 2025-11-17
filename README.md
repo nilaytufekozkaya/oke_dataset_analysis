@@ -178,8 +178,8 @@ The output will be generated under ./output/specification_analysis/ folder.
     @dataset{tufek_ozkaya_2023_10284578,
         author       = {Tufek Ozkaya, Nilay},
         title        = {OPC UA Knowledge Extraction (OKE) Dataset},
-        month        = may,
-        year         = 2025,
+        month        = dec,
+        year         = 2023,
         publisher    = {Zenodo},
         doi          = {10.5281/zenodo.10284577},
         url          = {https://doi.org/10.5281/zenodo.10284577}

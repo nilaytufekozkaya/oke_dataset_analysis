@@ -141,7 +141,8 @@ def run(args_: argparse.Namespace):
     data_frame_list = []
     comp_spec_list = []
     for spec, df in dataframes:
-        df.drop(df.columns.difference(headers), 1, inplace=True)
+        #df.drop(df.columns.difference(headers), 1, inplace=True)
+        df.drop(df.columns.difference(headers), axis=1, inplace=True)
         data_frame_list.append(df)
         comp_spec_list.append(spec)
 
